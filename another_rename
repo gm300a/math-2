@@ -3,4 +3,4 @@ tiny change
 small change 2
 check : test
 abc
-def
+def : abc
